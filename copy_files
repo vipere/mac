@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cp ~/Library/Preferences/RubyMine2017.1/keymaps/Jetbrains_Mac_Keymap.xml RubyMine_Mac_Keymap.xml
+cp ~/Library/Preferences/IntelliJIdea2017.2/keymaps/Intellij_Mac_Keymap.xml IntelliJ_Mac_Keymap.xml
+cp ~/Library/Preferences/com.googlecode.iterm2.plist com.googlecode.iterm2.plist
+cp ~/.config/karabiner/karabiner.json karabiner.json
